@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+name: TU Delft DCC
+markdown: redcarpet
+pygments: true
+baseurl: /website
