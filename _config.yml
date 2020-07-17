@@ -13,7 +13,7 @@ header_pages:
  - _pages/rse.md
  - _pages/fims.md
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
 collections:
   pages:
