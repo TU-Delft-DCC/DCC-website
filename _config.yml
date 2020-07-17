@@ -1,0 +1,20 @@
+title: TU Delft DCC
+author: TU Delft DCC
+email: support4research@tudelft.nl
+github_username: TU-Delft-DCC
+
+header: _resources/TUD_RSE_logo.png
+
+include: ['_pages']
+
+header_pages:
+ - _pages/data-stewards.md
+ - _pages/data-managers.md
+ - _pages/rse.md
+ - _pages/fims.md
+
+theme: minima
+
+collections:
+  pages:
+    output: true
