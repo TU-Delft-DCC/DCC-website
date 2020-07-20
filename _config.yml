@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   TU Delft Digital Competence Centre temporary website
   # for Google search results and feed.xml site description
 baseurl: "/DCC-website" # the subpath of your site, e.g. /blog/
-url: "https://sebranchett.github.io" # the base hostname & protocol for your site
+url: "https://tu-delft-dcc.github.io" # the base hostname & protocol for your site
 github_username:  TU-Delft-DCC
 
 # Build settings
