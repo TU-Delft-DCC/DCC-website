@@ -1,1 +1,1 @@
-(Temporary) website for the TU Delft Digital Competency Center
+(Temporary) website for the TU Delft Digital Competence Centre
