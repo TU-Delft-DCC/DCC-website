@@ -1,11 +1,22 @@
-{% include head.html %}
+---
+layout: default
+---
+<!-- Banner -->
+<section id="banner">
+    <div class="inner">
+        <h2>TU Delft DCC</h2>
+    </div>
+</section>
+<div class="wrapper style1">
+    <article class="container">
+        <header class="major">
+            <h2 class="post-title">{{ page.title }}</h2>
+        </header>
 
-    <main>
+        <section class="post-content">
+            {{ content }}
+        </section>
+        
+    </article>
 
-        <h1>{{ page.title }}</h1>
-
-        {{ content }}
-
-    </main>
-
-{% include foot.html %}
+</div>
