@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TU Delft Digital Competence Centre
+title: About us
 ---
 Our purpose is to enable TU Delft researchers to do even more efficient, effective and exciting research through improved digital competence.
 
