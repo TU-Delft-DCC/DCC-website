@@ -10,3 +10,9 @@ github_username:  TU-Delft-DCC
 
 # Build settings
 markdown: kramdown
+
+include: ['_pages']
+
+collections:
+  pages:
+    output: true
