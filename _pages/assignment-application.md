@@ -10,11 +10,11 @@ A suitable assignment combines a research goal with a data and/or software engin
 
 # What can be applied for? 
 
-You can request that a DCC team member joins your group for two days per week, for a period of between 2 and 6 months. 
+You can request that a DCC team member joins your group for up to two days per week, for a period of up to 6 months. 
 
 If at all possible, the DCC team member will be physically present in your group for at least one day per week. You will be expected to have someone from your group available to work together with the DCC team member and to supply a suitable workspace for them, including a desk, adjustable office chair and monitor. 
 
-The second day per week, the DCC team member will work closely with other DCC team members, so that you also benefit from their shared knowledge and skill sets. 
+The rest of the time, the DCC team member will work closely with other DCC team members, so that you also benefit from their shared knowledge and skill sets. 
 
 # Who may apply? 
 
