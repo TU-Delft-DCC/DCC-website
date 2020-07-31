@@ -4,7 +4,7 @@ title: Assignment Application
 ---
 # Introduction/Purpose 
 
-The DCC team supports researchers in improving software development and data management practices. Team members will temporarily join research groups to work together on setting up or improving working practises, workflows and software development. 
+The DCC team supports researchers in improving software development and data management practices. Team members will temporarily join research groups to work together on setting up or improving working practices, workflows and software development. 
 
 A suitable assignment combines a research goal with a data and/or software engineering hurdle to be overcome. 
 
@@ -12,7 +12,7 @@ A suitable assignment combines a research goal with a data and/or software engin
 
 You can request that a DCC team member joins your group for two days per week, for a period of between 2 and 6 months. 
 
-If at all possible, the DCC team member will be physically present in your group for at least one day per week. You will be expected to have someone from you group available to work together with the DCC team member and to supply a suitable workspace for them, including a desk, adjustable office chair and monitor. 
+If at all possible, the DCC team member will be physically present in your group for at least one day per week. You will be expected to have someone from your group available to work together with the DCC team member and to supply a suitable workspace for them, including a desk, adjustable office chair and monitor. 
 
 The second day per week, the DCC team member will work closely with other DCC team members, so that you also benefit from their shared knowledge and skill sets. 
 
@@ -31,18 +31,17 @@ Assignments will be assessed on the criteria below. Preference will be given to 
 - The assignment extends the research possibilities of the applicant. 
 - The assignment end products have a wider impact and can be (re)used by others. 
 - The assignment generates open source software and/or FAIR data. 
-- The estimated workload appears realistic to the DCC team and is within the 2 days/week for maximum 6 months limit (3). 
+- The estimated workload appears realistic to the DCC team and is within the 2 days/week for maximum 6 months limit.<sup>1</sup> 
 - The requested technical skills are available in the DCC team, or are desirable and realistic to obtain for the DCC team during the assignment. 
-- The assignment is different in some way from previously accepted assignments (3). 
-- The assignment is from an underrepresented TU Delft faculty in the accepted assignment portfolio(3). 
-- The people involved have appropriate employment contracts (1). 
+- The assignment is different in some way from previously accepted assignments.<sup>1</sup>
+- The assignment is from an underrepresented TU Delft faculty in the accepted assignment portfolio.<sup>1</sup>
+- The people involved have appropriate employment contracts.<sup>2</sup>
 - There is a Data Management Plan (DMP) in place. 
-- The applicant plans to give appropriate credit to the DCC team member(s). 
+- The applicant plans to give appropriate credit to the DCC team member(s).<sup>3</sup>
 
-1. The applicant must have a TU Delft contract for the duration of the assignment. There must be a daily contact person for the duration of the contract. The handover person must have a contract for at least 4 months after the end of the assignment. 
-2. The CRediT taxonomy provides useful guidance on how people’s contribution to research outputs could be recognised. 
-3. To increase assignment diversity in the 2 year DCC team pilot period. 
-
+1. *To increase assignment diversity in the 2 year DCC team pilot period.*
+2. *The applicant must have a TU Delft contract for the duration of the assignment. There must be a daily contact person for the duration of the contract. The handover person must have a contract for at least 4 months after the end of the assignment.*
+3. *The [CRediT taxonomy](https://www.casrai.org/credit.html) provides useful guidance on how people’s contribution to research outputs could be recognised.*
  
 
 # More information 
@@ -51,4 +50,4 @@ If you would like more information before submitting an assignment, please [send
 
 # Apply 
 
-You can find [the application form here](https://forms.office.com/Pages/ResponsePage.aspx?id=TVJuCSlpMECM04q0LeCIe5OoS3PKchtBoa_30gjV-5VUOUZDR0RFUFczUjNSVEpKRU5SMlZIRUowUCQlQCN0PWcu).
+You can find [the application form here](https://urldefense.proofpoint.com/v2/url?u=https-3A__forms.office.com_Pages_ResponsePage.aspx-3Fid-3DTVJuCSlpMECM04q0LeCIe5OoS3PKchtBoa-5F30gjV-2D5VUNloyTjAyT05YT1M1NjZYR1k1OUNRTlJaMCQlQCN0PWcu&d=DwQGaQ&c=XYzUhXBD2cD-CornpT4QE19xOJBbRy-TBPLK0X9U2o8&r=5CjN4_QYiyqcgmZqHJKD-P0L_IHc7_T869LOe_GmZkw&m=xlJwF9vRxy-hNkI8wvYz3Koh50sqAf6rj8HDYdueEUk&s=slx5X1eymdrrkyIh8C8UezFF35n0AYUtYtiTO03gb5I&e=). You may need to log into your TU Delft Microsoft Teams account with netID@tudelft.net.
