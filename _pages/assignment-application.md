@@ -50,6 +50,7 @@ If you would like more information before submitting an assignment, please [send
 
 # Apply 
 
-You can find [the application form here](https://urldefense.proofpoint.com/v2/url?u=https-3A__forms.office.com_Pages_ResponsePage.aspx-3Fid-3DTVJuCSlpMECM04q0LeCIe5OoS3PKchtBoa-5F30gjV-2D5VUNloyTjAyT05YT1M1NjZYR1k1OUNRTlJaMCQlQCN0PWcu&d=DwQGaQ&c=XYzUhXBD2cD-CornpT4QE19xOJBbRy-TBPLK0X9U2o8&r=5CjN4_QYiyqcgmZqHJKD-P0L_IHc7_T869LOe_GmZkw&m=xlJwF9vRxy-hNkI8wvYz3Koh50sqAf6rj8HDYdueEUk&s=slx5X1eymdrrkyIh8C8UezFF35n0AYUtYtiTO03gb5I&e=). You may need to log into your TU Delft Microsoft Teams account with netID@tudelft.net.
+You can find [the application form here](https://forms.office.com/Pages/ResponsePage.aspx?id=TVJuCSlpMECM04q0LeCIe5OoS3PKchtBoa_30gjV-5VUNloyTjAyT05YT1M1NjZYR1k1OUNRTlJaMCQlQCN0PWcu)
+You may need to log into your TU Delft Microsoft Teams account with netID@tudelft.net.
 
 Next deadline for applications: 20 September 2020.
