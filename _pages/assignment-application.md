@@ -46,9 +46,11 @@ Assignments will be assessed on the criteria below. Preference will be given to 
 
 # More information 
 
-If you would like more information before submitting an assignment, please [send us an email.](mailto:support4research@tudelft.nl)
+If you would like more information before submitting an assignment, please [send us an email.](mailto:dcc@tudelft.nl)
 
 # Apply 
 
 You can find [the application form here](https://forms.office.com/Pages/ResponsePage.aspx?id=TVJuCSlpMECM04q0LeCIe5OoS3PKchtBoa_30gjV-5VUNloyTjAyT05YT1M1NjZYR1k1OUNRTlJaMCQlQCN0PWcu)
 You may need to log into your TU Delft Microsoft Teams account with netID@tudelft.net.
+
+Next deadline for applications: 20 September 2020.
