@@ -17,5 +17,3 @@ Note: if you have forked this repo and you would like to see the results of your
 ```
 
 Don't forget to change it back again before submitting a pull request.
-
-Bad link to test check: https://aoushaoueshosuhoshuoeu.com/
