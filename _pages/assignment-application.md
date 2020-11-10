@@ -2,6 +2,9 @@
 layout: page
 title: Assignment Application
 ---
+
+Looking for the application form? You can find it [here](https://forms.office.com/Pages/ResponsePage.aspx?id=TVJuCSlpMECM04q0LeCIe5OoS3PKchtBoa_30gjV-5VUNloyTjAyT05YT1M1NjZYR1k1OUNRTlJaMCQlQCN0PWcu).
+
 # Introduction/Purpose 
 
 The DCC team supports researchers in improving software development and data management practices. Team members will temporarily join research groups to work together on setting up or improving working practices, workflows and software development. 
@@ -50,7 +53,6 @@ If you would like more information before submitting an assignment, please [send
 
 # Apply 
 
-You can find [the application form here](https://forms.office.com/Pages/ResponsePage.aspx?id=TVJuCSlpMECM04q0LeCIe5OoS3PKchtBoa_30gjV-5VUNloyTjAyT05YT1M1NjZYR1k1OUNRTlJaMCQlQCN0PWcu)
-You may need to log into your TU Delft Microsoft Teams account with netID@tudelft.net.
+You can find [the application form here](https://forms.office.com/Pages/ResponsePage.aspx?id=TVJuCSlpMECM04q0LeCIe5OoS3PKchtBoa_30gjV-5VUNloyTjAyT05YT1M1NjZYR1k1OUNRTlJaMCQlQCN0PWcu).
 
 Next deadline for applications: to be determined.
