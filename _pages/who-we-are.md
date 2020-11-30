@@ -46,7 +46,7 @@ Any *researcher* at TU Delft, including *postdoctoral researchers* and *PhD stud
 
 * **Questions** – send your questions anytime via e-mail. Our team will reply to you or find the right person to give you an answer. 
 
-* **Project Support** – Apply for our extended support for your research projects (up to 340 hours). We can come ‘on board’ and work with you! *Our next call for applications will be announced somewhere in December 2020.*
+* **Project Support** – Apply for our extended support for your research projects (up to 340 hours). We can come ‘on board’ and work with you! *Our next call for applications is now opened and closes on January 8, 2021.*
 
 We are also active as part of the [Open Science Community](https://osc-delft.github.io/).
 
