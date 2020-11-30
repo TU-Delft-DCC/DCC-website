@@ -18,7 +18,7 @@ Within the Open Science Programme, our university is committed to making open re
 
 >“It is our ambition to be the frontrunner in this area.  Our aim is that Open Science becomes the default setting for research and education at TU Delft.” -Prof. dr. Rob Mudde, vice-rector magnificus-
 
-## The DDC Support Team
+## The DCC Support Team
 
 The DCC is the home of a Support Team consisting of *data managers* and *research software engineers* based in the TU Delft Library and ICT/Innovation department, respectively. The team’s purpose is helping researchers to develop skills to apply the FAIR principles to their research activities and reach their software development goals. The support team is an addition to the task force supporting Open Science at TU Delft, which also includes the Faculty’s ICT Managers and Data Stewards. 
 
