@@ -3,7 +3,7 @@ layout: page
 title: Assignment Application
 ---
 
-Looking for the application form? You can find it [here](https://forms.office.com/Pages/ResponsePage.aspx?id=TVJuCSlpMECM04q0LeCIe5OoS3PKchtBoa_30gjV-5VUNloyTjAyT05YT1M1NjZYR1k1OUNRTlJaMCQlQCN0PWcu).
+Looking for the application form? You can find it [here](https://forms.office.com/Pages/ResponsePage.aspx?id=TVJuCSlpMECM04q0LeCIe9bK9RlghsdLqSsK-LbEAcRUQUZQTkMxTVY5Sk5RQlU4OFpDR1g0UVBEOS4u).
 
 # Introduction/Purpose 
 
@@ -53,6 +53,6 @@ If you would like more information before submitting an assignment, please [send
 
 # Apply 
 
-You can find [the application form here](https://forms.office.com/Pages/ResponsePage.aspx?id=TVJuCSlpMECM04q0LeCIe5OoS3PKchtBoa_30gjV-5VUNloyTjAyT05YT1M1NjZYR1k1OUNRTlJaMCQlQCN0PWcu).
+You can find [the application form here](https://forms.office.com/Pages/ResponsePage.aspx?id=TVJuCSlpMECM04q0LeCIe9bK9RlghsdLqSsK-LbEAcRUQUZQTkMxTVY5Sk5RQlU4OFpDR1g0UVBEOS4u).
 
 Next deadline for applications: to be determined.
