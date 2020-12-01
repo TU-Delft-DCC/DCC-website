@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TU Delft DCC</title>
+    <description>TU Delft Digital Competence Centre temporary website # for Google search results and feed.xml site description
+</description>
+    <link>https://dcc.tudelft.nl/</link>
+    <atom:link href="https://dcc.tudelft.nl/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 01 Dec 2020 09:07:53 +0000</pubDate>
+    <lastBuildDate>Tue, 01 Dec 2020 09:07:53 +0000</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Coming soon...</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/pic01.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 19 Jul 2020 22:00:00 +0000</pubDate>
+        <link>https://dcc.tudelft.nl/jekyll/update/2020/07/19/welcome-to-blog.html</link>
+        <guid isPermaLink="true">https://dcc.tudelft.nl/jekyll/update/2020/07/19/welcome-to-blog.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
