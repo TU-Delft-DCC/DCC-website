@@ -55,4 +55,4 @@ If you would like more information before submitting an assignment, please [send
 
 You can find [the application form here](https://forms.office.com/Pages/ResponsePage.aspx?id=TVJuCSlpMECM04q0LeCIe9bK9RlghsdLqSsK-LbEAcRUQUZQTkMxTVY5Sk5RQlU4OFpDR1g0UVBEOS4u).
 
-Next deadline for applications: to be determined.
+Next deadline for applications: 8 January 2021 at 23:59.
